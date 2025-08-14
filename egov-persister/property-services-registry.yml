@@ -71,7 +71,7 @@ serviceMaps:
       - jsonPath: $.Property.additionalDetails
         type: JSON
         dbType: JSONB
-        
+ 
       - jsonPath: $.Property.registryId
    
 
